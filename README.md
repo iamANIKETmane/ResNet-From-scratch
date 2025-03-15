@@ -1,4 +1,4 @@
-# CIFAR-10 Image Classification with ResNet Architectures
+# CIFAR-10 Image Classification with ResNet Architectures(DL)
 
 ## Project Overview
 This repository contains a deep learning project focused on image classification using ResNet architectures on the CIFAR-10 dataset. The project explores various ResNet implementations with different depths and training strategies to optimize the trade-off between model complexity, training time, and classification accuracy.
